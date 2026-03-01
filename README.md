@@ -62,7 +62,7 @@
 
 ## 🏆 Проекты
 
-1.  **[Когортный анализ](https://gitflic.ru/project/ailiask/cohort-analyst)**
+1.  **[Когортный анализ](https://github.com/Ailiask/Cohort-analyst)**
 
 
 2.  **[Калькулятор Юнит - Экономики](https://gitflic.ru/project/ailiask/uniteconomicscalculator)**
