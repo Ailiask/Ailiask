@@ -65,10 +65,20 @@
 1.  **[Когортный анализ](https://github.com/Ailiask/Cohort-analyst)**
 
 
-2.  **[Калькулятор Юнит - Экономики](https://gitflic.ru/project/ailiask/uniteconomicscalculator)**
+2.  **[Калькулятор Юнит - Экономики](https://github.com/Ailiask/Unit-economics-calculator)**
 
 
-3.  **[Анализ транзакций сети розничных магазинов](https://gitflic.ru/project/ailiask/analiz-tranzakcii-seti-roznichnyh-magazinov)** 
+3.  **[Анализ транзакций сети розничных магазинов](https://github.com/Ailiask/Analysis-of-retail-store-chain-transactions)** 
+
+
+4.  **[Анализ игры Zombie Revolution](https://github.com/Ailiask/Game-analysis-zombie-revolution)**
+
+
+5.  **[SkySport Data Analytics](https://github.com/Ailiask/SkySport-data-analytics)** 
+
+
+6.  **[AB-Test SkyLenta](https://github.com/Ailiask/AB-test-SkyLenta)** 
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
